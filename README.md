@@ -1,5 +1,7 @@
-# yuqingv2
-鸿蒙舆情监测系统源码销售 
+# yuqingv2——鸿蒙舆情监测系统源码出售 
+<img src="https://harmonydatax.oss-cn-hangzhou.aliyuncs.com/0.png" width="20%"/>
+
+**源码出售，二次开发，无隐藏代码，全程开发指导，持续升级服务**
 
 系统使用Java语言编写，采用java+springcloud+elasticsearch+rocketmq+redis框架搭建，数据库采用MySql。
 
@@ -66,9 +68,19 @@
 >季报：每个季度第一天生成上个季度的季报。主要内容包括季度新闻报道统计分析、影响力评估，正负面舆情热点及影响因素分析，负面舆情统计分析以及发生因素和处置情况、不良影响评估，工作建议等   
   
   
+## 鸿蒙源码服务：
+>100%源码出售，不含任何隐藏代码
+  
+>源码二开培训指导
+  
+>免费bug升级  
+  
+>功能升级服务，新网站，新论坛，新媒体支持，与时俱进
 
 
 ## 系统演示环境：  
 http://www.harmonydatax.com/   
   
-演示账号请联系：17751261739 （微信号同）
+联系：17751261739 （微信号同）获取演示账号及技术白皮书
+  
+ <img src="https://harmonydatax.oss-cn-hangzhou.aliyuncs.com/weixinqr.jpg" width="50%" alt="鸿蒙数据"/>
