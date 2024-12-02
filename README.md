@@ -1,5 +1,4 @@
 # yuqingv2——鸿蒙舆情监测系统源码出售 
-<img src="https://harmonydatax.oss-cn-hangzhou.aliyuncs.com/0.png" width="20%"/>
 
 **源码出售，二次开发，无隐藏代码，全程开发指导，持续升级服务**
 
@@ -79,8 +78,6 @@
 
 
 ## 系统演示环境：  
-http://www.harmonydatax.com/   
+http://www.yuqing.link/   
   
 联系：17751261739 （微信号同）获取演示账号及技术白皮书
-  
- <img src="https://harmonydatax.oss-cn-hangzhou.aliyuncs.com/weixinqr.jpg" width="50%" alt="鸿蒙数据"/>
